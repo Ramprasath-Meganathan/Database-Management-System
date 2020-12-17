@@ -1,0 +1,76 @@
+/* created with ERDot < https://github.com/ehne/ERDot > */
+digraph G {
+    graph [
+        nodesep=0.5;
+        rankdir="LR";
+        cencentrate=true;
+        splines="spline";
+        fontname="Helvetica";
+        pad="0.2,0.2",
+        label="",
+        
+    ];
+    
+    node [shape=plain, fontname="Helvetica"];
+    edge [
+        dir=both,
+        fontsize=12,
+        arrowsize=0.9,
+        penwidth=1.0,
+        labelangle=32,
+        labeldistance=1.8,
+        fontname="Helvetica"
+    ];
+    
+    POPP [ label=<
+        <table border="0" cellborder="1" cellspacing="0" >
+        <tr><td><i>POPP</i></td></tr>
+    </table>>];
+    PERSONS [ label=<
+        <table border="0" cellborder="1" cellspacing="0" >
+        <tr><td><i>PERSONS</i></td></tr>
+        <tr><td port="PERSONID" align="left" cellpadding="5">PERSONID <font color="grey60">INT</font></td></tr>
+        <tr><td port="LASTNAME" align="left" cellpadding="5">LASTNAME <font color="grey60">VARCHAR</font></td></tr>
+        <tr><td port="ADDRESS" align="left" cellpadding="5">ADDRESS <font color="grey60">VARCHAR</font></td></tr>
+        <tr><td port="FIRSTNAME" align="left" cellpadding="5">FIRSTNAME <font color="grey60">VARCHAR</font></td></tr>
+    </table>>];
+    TEST [ label=<
+        <table border="0" cellborder="1" cellspacing="0" >
+        <tr><td><i>TEST</i></td></tr>
+        <tr><td port="LASTNAME" align="left" cellpadding="5">LASTNAME <font color="grey60">VARCHAR</font></td></tr>
+        <tr><td port="TESTID" align="left" cellpadding="5">TESTID <font color="grey60">INT</font></td></tr>
+        <tr><td port="ADDRESS" align="left" cellpadding="5">ADDRESS <font color="grey60">VARCHAR</font></td></tr>
+        <tr><td port="FIRSTNAME" align="left" cellpadding="5">FIRSTNAME <font color="grey60">VARCHAR</font></td></tr>
+    </table>>];
+    TABLE [ label=<
+        <table border="0" cellborder="1" cellspacing="0" >
+        <tr><td><i>TABLE</i></td></tr>
+    </table>>];
+    POPEYE [ label=<
+        <table border="0" cellborder="1" cellspacing="0" >
+        <tr><td><i>POPEYE</i></td></tr>
+        <tr><td port="PERSONID" align="left" cellpadding="5">PERSONID <font color="grey60">INT</font></td></tr>
+        <tr><td port="ORDERNUMBER" align="left" cellpadding="5">ORDERNUMBER <font color="grey60">INT</font></td></tr>
+        <tr><td port="ORDERID" align="left" cellpadding="5">PK ORDERID <font color="grey60">INT</font></td></tr>
+        <tr><td port="TESTID" align="left" cellpadding="5">TESTID <font color="grey60">INT</font></td></tr>
+    </table>>];
+
+
+    POPEYE:PERSONID->PERSONS:PERSONID [
+        arrowhead=noneotee,
+
+        arrowtail=ocrow,
+    ];
+
+
+    POPEYE:TESTID->TEST:TESTID [
+        arrowhead=noneotee,
+
+        arrowtail=ocrow,
+    ];
+
+
+
+    
+
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T04:44:54.726992Z</date>
+  <millis>1606797894726</millis>
+  <nanos>992000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: ram</message>
+</record>
+<record>
+  <date>2020-12-01T04:45:13.556407Z</date>
+  <millis>1606797913556</millis>
+  <nanos>407000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE WQER, databasename: jay, tablename: WQER, query successful </message>
+</record>
+<record>
+  <date>2020-12-01T04:46:19.831943Z</date>
+  <millis>1606797979831</millis>
+  <nanos>943000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE RET CNAME INT INFO VARCHAR , databasename: jay, tablename: RET, query successful </message>
+</record>

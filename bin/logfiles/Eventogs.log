@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:32:47.868346Z</date>
+  <millis>1606872767868</millis>
+  <nanos>346000</nanos>
+  <sequence>30</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>error</method>
+  <thread>1</thread>
+  <message>query:TRUNCATE TABLE PERSONS;, databasename: db5408tablename: PERSONS;, Error occured , query unsuccessful </message>
+</record>
+<record>
+  <date>2020-12-02T01:33:09.412059Z</date>
+  <millis>1606872789412</millis>
+  <nanos>59000</nanos>
+  <sequence>32</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: TRUNCATE TABLE PERSONS, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:30:27.111370Z</date>
+  <millis>1606879827111</millis>
+  <nanos>370000</nanos>
+  <sequence>6</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>error</method>
+  <thread>1</thread>
+  <message>query:TRUNCATE TABLE ORDERS;, databasename: jaytablename: ORDERS;, Error occured , query unsuccessful </message>
+</record>
+<record>
+  <date>2020-12-02T03:30:38.048151Z</date>
+  <millis>1606879838048</millis>
+  <nanos>151000</nanos>
+  <sequence>8</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: TRUNCATE TABLE ORDERS, databasename: jay, tablename: ORDERS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T03:31:56.846145Z</date>
+  <millis>1606879916846</millis>
+  <nanos>145000</nanos>
+  <sequence>10</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: DELETE FROM PERSONS WHERE PERSONID=100, databasename: jay, tablename: PERSONS, query successful </message>
+</record>
+</log>

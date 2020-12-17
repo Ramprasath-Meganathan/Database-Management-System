@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T04:10:23.967695Z</date>
+  <millis>1606795823967</millis>
+  <nanos>695000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE MN, databasename: jay, tablename: MN, query successful </message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:29:14.031968Z</date>
+  <millis>1606872554031</millis>
+  <nanos>968000</nanos>
+  <sequence>24</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET city  Lisbon  WHERE personid 100 OR firstname  manpreet , databasename: db5408, tablename: persons, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:30:23.344618Z</date>
+  <millis>1606872623344</millis>
+  <nanos>618000</nanos>
+  <sequence>26</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE EMPTY , databasename: db5408, tablename: EMPTY, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:31:44.088072Z</date>
+  <millis>1606872704088</millis>
+  <nanos>72000</nanos>
+  <sequence>28</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: DELETE FROM PERSONS WHERE PERSONID=102, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:32:47.868346Z</date>
+  <millis>1606872767868</millis>
+  <nanos>346000</nanos>
+  <sequence>30</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>error</method>
+  <thread>1</thread>
+  <message>query:TRUNCATE TABLE PERSONS;, databasename: db5408tablename: PERSONS;, Error occured , query unsuccessful </message>
+</record>
+<record>
+  <date>2020-12-02T01:33:09.412059Z</date>
+  <millis>1606872789412</millis>
+  <nanos>59000</nanos>
+  <sequence>32</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: TRUNCATE TABLE PERSONS, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+</log>

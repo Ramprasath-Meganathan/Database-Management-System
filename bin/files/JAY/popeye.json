@@ -1,0 +1,1 @@
+{"datalist":[],"tablename":"POPEYE","lock":"0","relations":[["POPEYE:PERSONID *--1 PERSONS:PERSONID","POPEYE:TESTID *--1 TEST:TESTID"]],"columnlist":[{"PERSONID":"INT","ORDERNUMBER":"INT","*ORDERID":"INT","TESTID":"INT"}]}

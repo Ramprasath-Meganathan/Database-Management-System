@@ -1,0 +1,1859 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T03:27:15.713536Z</date>
+  <millis>1606793235713</millis>
+  <nanos>536000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: ram</message>
+</record>
+<record>
+  <date>2020-12-01T03:28:11.978041Z</date>
+  <millis>1606793291978</millis>
+  <nanos>41000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: SELECT * FROM PERSONS, databasename: JAY, tablename: PERSONS, query successful </message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T17:44:19.278567Z</date>
+  <millis>1606844659278</millis>
+  <nanos>567000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-01T17:44:19.330851Z</date>
+  <millis>1606844659330</millis>
+  <nanos>851000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T17:45:06.514242Z</date>
+  <millis>1606844706514</millis>
+  <nanos>242000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-01T17:45:06.546103Z</date>
+  <millis>1606844706546</millis>
+  <nanos>103000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-01T17:45:06.548892Z</date>
+  <millis>1606844706548</millis>
+  <nanos>892000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T17:49:53.144466Z</date>
+  <millis>1606844993144</millis>
+  <nanos>466000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T17:50:04.681188Z</date>
+  <millis>1606845004681</millis>
+  <nanos>188000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T17:51:21.038921Z</date>
+  <millis>1606845081038</millis>
+  <nanos>921000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T20:00:18.134650Z</date>
+  <millis>1606852818134</millis>
+  <nanos>650000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T20:02:44.060868Z</date>
+  <millis>1606852964060</millis>
+  <nanos>868000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T20:05:47.016780Z</date>
+  <millis>1606853147016</millis>
+  <nanos>780000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-01T20:05:53.869311Z</date>
+  <millis>1606853153869</millis>
+  <nanos>311000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE EMPTY, databasename: jay, tablename: EMPTY, query successful </message>
+</record>
+<record>
+  <date>2020-12-01T20:06:36.623759Z</date>
+  <millis>1606853196623</millis>
+  <nanos>759000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: UPDATE test SET address  Robie Street Dal  WHERE testid 102 OR lastname  Gajjar  , databasename: jay, tablename: test, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T20:09:40.811833Z</date>
+  <millis>1606853380811</millis>
+  <nanos>833000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: ron</message>
+</record>
+<record>
+  <date>2020-12-01T20:09:59.298973Z</date>
+  <millis>1606853399298</millis>
+  <nanos>973000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: pop</message>
+</record>
+<record>
+  <date>2020-12-01T20:10:18.267544Z</date>
+  <millis>1606853418267</millis>
+  <nanos>544000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: ram</message>
+</record>
+<record>
+  <date>2020-12-01T20:10:58.075398Z</date>
+  <millis>1606853458075</millis>
+  <nanos>398000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: UPDATE test SET address  HFX Port  WHERE testid 102 OR lastname  Gajjar  , databasename: jay, tablename: test, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:00:40.600548Z</date>
+  <millis>1606870840600</millis>
+  <nanos>548000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>reglog</method>
+  <thread>1</thread>
+  <message>user registered: admin</message>
+</record>
+<record>
+  <date>2020-12-02T01:01:00.321116Z</date>
+  <millis>1606870860321</millis>
+  <nanos>116000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorreglog</method>
+  <thread>1</thread>
+  <message>user not registered: jay</message>
+</record>
+<record>
+  <date>2020-12-02T01:01:25.274375Z</date>
+  <millis>1606870885274</millis>
+  <nanos>375000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: admin</message>
+</record>
+<record>
+  <date>2020-12-02T01:01:34.478802Z</date>
+  <millis>1606870894478</millis>
+  <nanos>802000</nanos>
+  <sequence>3</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: admin</message>
+</record>
+<record>
+  <date>2020-12-02T01:03:05.504288Z</date>
+  <millis>1606870985504</millis>
+  <nanos>288000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>reglog</method>
+  <thread>1</thread>
+  <message>user registered: admin</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:05:20.680188Z</date>
+  <millis>1606871120680</millis>
+  <nanos>188000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>reglog</method>
+  <thread>1</thread>
+  <message>user registered: admin</message>
+</record>
+<record>
+  <date>2020-12-02T01:05:26.283230Z</date>
+  <millis>1606871126283</millis>
+  <nanos>230000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: admin</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:05:35.978086Z</date>
+  <millis>1606871135978</millis>
+  <nanos>86000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:06:00.580608Z</date>
+  <millis>1606871160580</millis>
+  <nanos>608000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorreglog</method>
+  <thread>1</thread>
+  <message>user not registered: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:07:51.469542Z</date>
+  <millis>1606871271469</millis>
+  <nanos>542000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>reglog</method>
+  <thread>1</thread>
+  <message>user registered: admin</message>
+</record>
+<record>
+  <date>2020-12-02T01:08:21.339487Z</date>
+  <millis>1606871301339</millis>
+  <nanos>487000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorreglog</method>
+  <thread>1</thread>
+  <message>user not registered: jay</message>
+</record>
+<record>
+  <date>2020-12-02T01:09:23.293903Z</date>
+  <millis>1606871363293</millis>
+  <nanos>903000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: admin</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:13:02.067948Z</date>
+  <millis>1606871582067</millis>
+  <nanos>948000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: admin</message>
+</record>
+<record>
+  <date>2020-12-02T01:13:54.986023Z</date>
+  <millis>1606871634986</millis>
+  <nanos>23000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE PERSONS PERSONID INT  LASTNAME VARCHAR  FIRSTNAME VARCHAR  CITY VARCHAR  STATE VARCHAR  , databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:17:28.140141Z</date>
+  <millis>1606871848140</millis>
+  <nanos>141000</nanos>
+  <sequence>5</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: insert into persons personid  lastname  firstname  city  state  values  100   gajjar    jay    hfx    ns  , databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:18:38.371622Z</date>
+  <millis>1606871918371</millis>
+  <nanos>622000</nanos>
+  <sequence>7</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: insert into persons personid  lastname  firstname  city  state  values  101   singh    manpreet    hfx    ns    102   prasath    ram    hfx    ns  , databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:22:56.802924Z</date>
+  <millis>1606872176802</millis>
+  <nanos>924000</nanos>
+  <sequence>9</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: SELECT * FROM PERSONS, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:23:21.475253Z</date>
+  <millis>1606872201475</millis>
+  <nanos>253000</nanos>
+  <sequence>11</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: SELECT CITY FROM PERSONS, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:24:00.949862Z</date>
+  <millis>1606872240949</millis>
+  <nanos>862000</nanos>
+  <sequence>13</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: SELECT * FROM PERSONS WHERE PERSONID = 101, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:24:43.619922Z</date>
+  <millis>1606872283619</millis>
+  <nanos>922000</nanos>
+  <sequence>15</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: SELECT * FROM PERSONS WHERE PERSONID != 101, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:26:23.114162Z</date>
+  <millis>1606872383114</millis>
+  <nanos>162000</nanos>
+  <sequence>18</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET city  dart  WHERE personid 102, databasename: db5408, tablename: persons, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:27:53.445128Z</date>
+  <millis>1606872473445</millis>
+  <nanos>128000</nanos>
+  <sequence>20</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET city  Lisbon  WHERE firstname  ram  and firstname  manpreet , databasename: db5408, tablename: persons, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:28:36.078421Z</date>
+  <millis>1606872516078</millis>
+  <nanos>421000</nanos>
+  <sequence>22</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET city  Lisbon  WHERE firstname  ram  AND firstname  manpreet , databasename: db5408, tablename: persons, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:29:14.031968Z</date>
+  <millis>1606872554031</millis>
+  <nanos>968000</nanos>
+  <sequence>24</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET city  Lisbon  WHERE personid 100 OR firstname  manpreet , databasename: db5408, tablename: persons, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:30:23.344618Z</date>
+  <millis>1606872623344</millis>
+  <nanos>618000</nanos>
+  <sequence>26</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE EMPTY , databasename: db5408, tablename: EMPTY, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:31:44.088072Z</date>
+  <millis>1606872704088</millis>
+  <nanos>72000</nanos>
+  <sequence>28</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: DELETE FROM PERSONS WHERE PERSONID=102, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:32:47.868346Z</date>
+  <millis>1606872767868</millis>
+  <nanos>346000</nanos>
+  <sequence>30</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>error</method>
+  <thread>1</thread>
+  <message>query:TRUNCATE TABLE PERSONS;, databasename: db5408tablename: PERSONS;, Error occured , query unsuccessful </message>
+</record>
+<record>
+  <date>2020-12-02T01:33:09.412059Z</date>
+  <millis>1606872789412</millis>
+  <nanos>59000</nanos>
+  <sequence>32</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: TRUNCATE TABLE PERSONS, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:34:08.670922Z</date>
+  <millis>1606872848670</millis>
+  <nanos>922000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: admin</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:34:44.548977Z</date>
+  <millis>1606872884548</millis>
+  <nanos>977000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:35:51.888963Z</date>
+  <millis>1606872951888</millis>
+  <nanos>963000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: admin</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:37:24.240157Z</date>
+  <millis>1606873044240</millis>
+  <nanos>157000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:44:17.309535Z</date>
+  <millis>1606873457309</millis>
+  <nanos>535000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-02T01:45:43.019431Z</date>
+  <millis>1606873543019</millis>
+  <nanos>431000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET address  HFX Port  WHERE personid 100, databasename: jay, tablename: persons, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:49:40.510385Z</date>
+  <millis>1606873780510</millis>
+  <nanos>385000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-02T01:50:25.514270Z</date>
+  <millis>1606873825514</millis>
+  <nanos>270000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET address  HFX Port  WHERE personid 100, databasename: jay, tablename: persons, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:06:20.104467Z</date>
+  <millis>1606874780104</millis>
+  <nanos>467000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE ORDERS  ORDERID INT  LASTNAME VARCHAR  FIRSTNAME VARCHAR  ADDRESS VARCHAR  CITY VARCHAR  , databasename: jay, tablename: ORDERS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:12:47.436319Z</date>
+  <millis>1606875167436</millis>
+  <nanos>319000</nanos>
+  <sequence>6</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE ERROR GIVE ERROR SYNTAX, databasename: jay, tablename: ERROR, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:36:32.654797Z</date>
+  <millis>1606876592654</millis>
+  <nanos>797000</nanos>
+  <sequence>10</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: insert into orders orderid  lastname  firstname  address  city  values  100   gajjar    jay    Robie    Halifax  , databasename: jay, tablename: ORDERS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:39:31.541349Z</date>
+  <millis>1606876771541</millis>
+  <nanos>349000</nanos>
+  <sequence>12</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: insert into orders orderid  lastname  firstname  address  city  values  101   prasath    ram    Quinpool    Halifax    102   singh    manpreet    Towers    Halifax  , databasename: jay, tablename: ORDERS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:42:25.186293Z</date>
+  <millis>1606876945186</millis>
+  <nanos>293000</nanos>
+  <sequence>14</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: SELECT * FROM ORDERS, databasename: jay, tablename: ORDERS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:44:00.534674Z</date>
+  <millis>1606877040534</millis>
+  <nanos>674000</nanos>
+  <sequence>16</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: SELECT * FROM ORDERS WHERE ORDERID = 100, databasename: jay, tablename: ORDERS, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T02:45:46.763346Z</date>
+  <millis>1606877146763</millis>
+  <nanos>346000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-02T02:46:02.831935Z</date>
+  <millis>1606877162831</millis>
+  <nanos>935000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: SELECT * FROM ORDERS WHERE ORDERID != 100, databasename: jay, tablename: ORDERS, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T02:51:43.276103Z</date>
+  <millis>1606877503276</millis>
+  <nanos>103000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-02T02:55:06.914050Z</date>
+  <millis>1606877706914</millis>
+  <nanos>50000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update orders SET city  Lisbon  WHERE firstname  ram , databasename: jay, tablename: orders, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:55:36.882018Z</date>
+  <millis>1606877736882</millis>
+  <nanos>18000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update orders SET city  Lisbon  WHERE firstname  ram , databasename: jay, tablename: orders, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:58:19.963298Z</date>
+  <millis>1606877899963</millis>
+  <nanos>298000</nanos>
+  <sequence>6</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update orders SET city  Benfica  WHERE orderid 100 and orderid 101, databasename: jay, tablename: orders, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:58:28.700798Z</date>
+  <millis>1606877908700</millis>
+  <nanos>798000</nanos>
+  <sequence>8</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update orders SET city  Benfica  WHERE orderid 100 AND orderid 101, databasename: jay, tablename: orders, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T02:58:57.834224Z</date>
+  <millis>1606877937834</millis>
+  <nanos>224000</nanos>
+  <sequence>10</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update orders SET city  Benfica  WHERE ORDERID 100 AND ORDERID 101, databasename: jay, tablename: orders, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:01:02.248205Z</date>
+  <millis>1606878062248</millis>
+  <nanos>205000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-02T03:01:15.304808Z</date>
+  <millis>1606878075304</millis>
+  <nanos>808000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update orders SET city  Benfica  WHERE orderid 100 AND orderid 101, databasename: jay, tablename: orders, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:02:01.215370Z</date>
+  <millis>1606878121215</millis>
+  <nanos>370000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-02T03:02:12.071198Z</date>
+  <millis>1606878132071</millis>
+  <nanos>198000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update orders SET city  Benfica  WHERE orderid 100 and orderid 101, databasename: jay, tablename: orders, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:03:03.845506Z</date>
+  <millis>1606878183845</millis>
+  <nanos>506000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:05:06.180367Z</date>
+  <millis>1606878306180</millis>
+  <nanos>367000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:05:56.143132Z</date>
+  <millis>1606878356143</millis>
+  <nanos>132000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:06:08.114658Z</date>
+  <millis>1606878368114</millis>
+  <nanos>658000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:06:47.356295Z</date>
+  <millis>1606878407356</millis>
+  <nanos>295000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:07:25.249697Z</date>
+  <millis>1606878445249</millis>
+  <nanos>697000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:12:08.002094Z</date>
+  <millis>1606878728002</millis>
+  <nanos>94000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:22:53.351292Z</date>
+  <millis>1606879373351</millis>
+  <nanos>292000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-02T03:23:38.627896Z</date>
+  <millis>1606879418627</millis>
+  <nanos>896000</nanos>
+  <sequence>3</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET address  Benfica  WHERE personid 100 OR lastname  SCHMIDT , databasename: jay, tablename: persons, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:26:33.547016Z</date>
+  <millis>1606879593547</millis>
+  <nanos>16000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-02T03:27:03.648257Z</date>
+  <millis>1606879623648</millis>
+  <nanos>257000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET address  Benfica  WHERE personid 102 AND lastname  SCHMIDT , databasename: jay, tablename: persons, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T03:27:20.788261Z</date>
+  <millis>1606879640788</millis>
+  <nanos>261000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET address  Port Vale  WHERE personid 102 AND lastname  SCHMIDT , databasename: jay, tablename: persons, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T03:30:27.111370Z</date>
+  <millis>1606879827111</millis>
+  <nanos>370000</nanos>
+  <sequence>6</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>error</method>
+  <thread>1</thread>
+  <message>query:TRUNCATE TABLE ORDERS;, databasename: jaytablename: ORDERS;, Error occured , query unsuccessful </message>
+</record>
+<record>
+  <date>2020-12-02T03:30:38.048151Z</date>
+  <millis>1606879838048</millis>
+  <nanos>151000</nanos>
+  <sequence>8</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: TRUNCATE TABLE ORDERS, databasename: jay, tablename: ORDERS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T03:31:56.846145Z</date>
+  <millis>1606879916846</millis>
+  <nanos>145000</nanos>
+  <sequence>10</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: DELETE FROM PERSONS WHERE PERSONID=100, databasename: jay, tablename: PERSONS, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:35:18.077747Z</date>
+  <millis>1606880118077</millis>
+  <nanos>747000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:39:39.432244Z</date>
+  <millis>1606880379432</millis>
+  <nanos>244000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:40:07.987306Z</date>
+  <millis>1606880407987</millis>
+  <nanos>306000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-02T03:40:14.893702Z</date>
+  <millis>1606880414893</millis>
+  <nanos>702000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE TEST1, databasename: popeye, tablename: TEST1, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T03:40:19.431691Z</date>
+  <millis>1606880419431</millis>
+  <nanos>691000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE TEST2, databasename: popeye, tablename: TEST2, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T03:40:23.083235Z</date>
+  <millis>1606880423083</millis>
+  <nanos>235000</nanos>
+  <sequence>6</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE TEST3, databasename: popeye, tablename: TEST3, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:46:28.854642Z</date>
+  <millis>1606880788854</millis>
+  <nanos>642000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:46:54.535526Z</date>
+  <millis>1606880814535</millis>
+  <nanos>526000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T03:47:59.787868Z</date>
+  <millis>1606880879787</millis>
+  <nanos>868000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-08T18:25:38.855238Z</date>
+  <millis>1607451938855</millis>
+  <nanos>238000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-13T17:06:19.033152Z</date>
+  <millis>1607879179033</millis>
+  <nanos>152000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-13T17:08:01.776685Z</date>
+  <millis>1607879281776</millis>
+  <nanos>685000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE ABCD, databasename: jay, tablename: ABCD, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-13T17:18:45.768903Z</date>
+  <millis>1607879925768</millis>
+  <nanos>903000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-13T22:12:13.835190Z</date>
+  <millis>1607897533835</millis>
+  <nanos>190000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-13T22:13:23.545236Z</date>
+  <millis>1607897603545</millis>
+  <nanos>236000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-13T23:49:47.635201Z</date>
+  <millis>1607903387635</millis>
+  <nanos>201000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: admin</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T00:29:06.351093Z</date>
+  <millis>1607905746351</millis>
+  <nanos>93000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T00:37:17.605626Z</date>
+  <millis>1607906237605</millis>
+  <nanos>626000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: admin</message>
+</record>
+<record>
+  <date>2020-12-14T00:38:18.404053Z</date>
+  <millis>1607906298404</millis>
+  <nanos>53000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE POKI, databasename: jay, tablename: POKI, query successful </message>
+</record>
+<record>
+  <date>2020-12-14T00:38:18.410219Z</date>
+  <millis>1607906298410</millis>
+  <nanos>219000</nanos>
+  <sequence>4</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE JODI, databasename: jay, tablename: JODI, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T19:27:10.096270Z</date>
+  <millis>1607974030096</millis>
+  <nanos>270000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-14T19:31:13.907561Z</date>
+  <millis>1607974273907</millis>
+  <nanos>561000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE POP, databasename: jay, tablename: POP, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T19:32:07.899559Z</date>
+  <millis>1607974327899</millis>
+  <nanos>559000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-14T19:33:20.877152Z</date>
+  <millis>1607974400877</millis>
+  <nanos>152000</nanos>
+  <sequence>3</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: update persons SET lastname  pop  WHERE personid 101, databasename: jay, tablename: persons, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T19:33:48.165002Z</date>
+  <millis>1607974428165</millis>
+  <nanos>2000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+<record>
+  <date>2020-12-14T19:38:31.114786Z</date>
+  <millis>1607974711114</millis>
+  <nanos>786000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE THISTAB, databasename: jay, tablename: THISTAB, query successful </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T19:40:22.962288Z</date>
+  <millis>1607974822962</millis>
+  <nanos>288000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T20:42:17.446952Z</date>
+  <millis>1607978537446</millis>
+  <nanos>952000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: admin</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T20:50:51.646278Z</date>
+  <millis>1607979051646</millis>
+  <nanos>278000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: admin</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T20:53:17.618107Z</date>
+  <millis>1607979197618</millis>
+  <nanos>107000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T20:55:15.073074Z</date>
+  <millis>1607979315073</millis>
+  <nanos>74000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T20:56:29.978701Z</date>
+  <millis>1607979389978</millis>
+  <nanos>701000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T21:05:53.123351Z</date>
+  <millis>1607979953123</millis>
+  <nanos>351000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: jay</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T22:39:06.975590Z</date>
+  <millis>1607985546975</millis>
+  <nanos>590000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>reglog</method>
+  <thread>1</thread>
+  <message>user registered: ram</message>
+</record>
+<record>
+  <date>2020-12-14T22:39:45.832438Z</date>
+  <millis>1607985585832</millis>
+  <nanos>438000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: ram</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T22:41:22.783177Z</date>
+  <millis>1607985682783</millis>
+  <nanos>177000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: ram</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T22:41:43.987792Z</date>
+  <millis>1607985703987</millis>
+  <nanos>792000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: ram</message>
+</record>
+<record>
+  <date>2020-12-14T22:42:26.883805Z</date>
+  <millis>1607985746883</millis>
+  <nanos>805000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: ram</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T22:42:50.104499Z</date>
+  <millis>1607985770104</millis>
+  <nanos>499000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: ram</message>
+</record>
+<record>
+  <date>2020-12-14T22:42:55.044399Z</date>
+  <millis>1607985775044</millis>
+  <nanos>399000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>reglog</method>
+  <thread>1</thread>
+  <message>user registered: ram</message>
+</record>
+<record>
+  <date>2020-12-14T22:43:46.266496Z</date>
+  <millis>1607985826266</millis>
+  <nanos>496000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: ram</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T22:44:21.447301Z</date>
+  <millis>1607985861447</millis>
+  <nanos>301000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: ram</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-14T22:44:43.755366Z</date>
+  <millis>1607985883755</millis>
+  <nanos>366000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>errorauthlog</method>
+  <thread>1</thread>
+  <message>user not authenticated: ram</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-15T20:15:34.061991Z</date>
+  <millis>1608063334061</millis>
+  <nanos>991000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>reglog</method>
+  <thread>1</thread>
+  <message>user registered: prasath</message>
+</record>
+<record>
+  <date>2020-12-15T20:16:01.527488Z</date>
+  <millis>1608063361527</millis>
+  <nanos>488000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: prasath</message>
+</record>
+</log>

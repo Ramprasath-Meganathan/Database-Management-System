@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-01T04:14:29.291851Z</date>
+  <millis>1606796069291</millis>
+  <nanos>851000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>authlog</method>
+  <thread>1</thread>
+  <message>user authenticated: ram</message>
+</record>
+<record>
+  <date>2020-12-01T04:15:14.022698Z</date>
+  <millis>1606796114022</millis>
+  <nanos>698000</nanos>
+  <sequence>2</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: CREATE TABLE RTTT, databasename: jay, tablename: RTTT, query successful </message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T01:31:44.088072Z</date>
+  <millis>1606872704088</millis>
+  <nanos>72000</nanos>
+  <sequence>28</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: DELETE FROM PERSONS WHERE PERSONID=102, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+<record>
+  <date>2020-12-02T01:32:47.868346Z</date>
+  <millis>1606872767868</millis>
+  <nanos>346000</nanos>
+  <sequence>30</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>SEVERE</level>
+  <class>logging.EventLogger</class>
+  <method>error</method>
+  <thread>1</thread>
+  <message>query:TRUNCATE TABLE PERSONS;, databasename: db5408tablename: PERSONS;, Error occured , query unsuccessful </message>
+</record>
+<record>
+  <date>2020-12-02T01:33:09.412059Z</date>
+  <millis>1606872789412</millis>
+  <nanos>59000</nanos>
+  <sequence>32</sequence>
+  <logger>logging.EventLogger</logger>
+  <level>INFO</level>
+  <class>logging.EventLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>query: TRUNCATE TABLE PERSONS, databasename: db5408, tablename: PERSONS, query successful </message>
+</record>
+</log>
